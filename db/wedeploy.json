@@ -1,6 +1,6 @@
 {
   "id": "db",
-  "image": "mongo:3.6",
+  "image": "mongo:4.0",
   "volumes": {
     "data": "/data/db"
   },
